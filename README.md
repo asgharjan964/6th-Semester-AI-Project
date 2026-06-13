@@ -35,7 +35,7 @@ This will:
 python app.py
 
 
-Open your browser at: **http://localhost:5000**
+Open your browser at: **https://6th-semester-ai-project.vercel.app/**
 
 
 
