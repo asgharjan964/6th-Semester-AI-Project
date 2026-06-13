@@ -1,6 +1,6 @@
 # ⚡ SpamShield — AI Email Spam Detection
 
-> **Sukkur IBA University** | Department of Computer Science | AI 6th Semester FInal Project | Instructor Dr Ismail Mangrio
+> **Sukkur IBA University** | Department of Computer Science | AI 6th Semester Final Project | Instructor Dr Ismail Mangrio
 
 A full-stack machine learning web application that classifies emails as **Spam** or **Not Spam** in real time using TF-IDF feature extraction and Logistic Regression.
 
